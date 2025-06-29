@@ -1,6 +1,6 @@
 # 🤖 Learning AI From Scratch
 
-Welcome! This repository documents my personal hands-on journey to become a **modern AI Engineer** — starting completely from scratch with **NLP**, **machine learning**, and practical experiments.
+Welcome! This repository documents my personal hands-on journey to understand how and what a **modern AI Engineer** does — starting completely from scratch with **NLP**, **machine learning**, and practical experiments. The goal is to take tiny steps all the way to using the models, agents, automated networking and security tools.
 
 I built this to:
 - Learn the basics step by step (math, code, pipeline)
