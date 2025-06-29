@@ -1,4 +1,4 @@
-# AI Assistant: Learning Plan & Local Model Setup Guide
+# My Learning Plan
 
 ---
 
