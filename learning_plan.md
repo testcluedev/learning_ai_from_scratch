@@ -1,12 +1,5 @@
 # AI Assistant: Learning Plan & Local Model Setup Guide
 
-## 🎯 Goal
-Design and implement a hybrid AI assistant that:
-- Combines local private LLM (for memory and reasoning) with cloud APIs (OpenAI, Codex)
-- Supports memory persistence (via vector DB + relational DB)
-- Handles multi-modal I/O (text, voice)
-- Integrates cost tracking, VAT logic, billing/invoicing
-
 ---
 
 ## 📚 Learning Plan (Flexible Milestones)
@@ -46,10 +39,3 @@ Design and implement a hybrid AI assistant that:
 | **Gemma** | You want a Google-backed OSS model | Decent performance, open weights |
 
 ---
-
-## 🛠 Local Model Setup Guidance
-
-### ✅ Easiest Way: Ollama
-1️⃣ Install Ollama  
-```bash
-curl -fsSL https://ollama.com/install.sh | sh
