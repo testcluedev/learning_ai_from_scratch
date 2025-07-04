@@ -71,5 +71,5 @@ Questions? File an issue or drop me a DM.
 
 ---
 
-**📌 Made by [YourName] — Learning AI from scratch, one experiment at a time.**
+**📌 Made by [Abhishek Sharma] — Learning AI from scratch, one experiment at a time.**
 
